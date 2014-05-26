@@ -1,16 +1,16 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.playone.luckytotem" version="2.0">
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.playone.sangomatch" version="1.0">
 
-	<name>LT</name>
-	<description>Believe, to come true.</description>
-	<author href="http://steelgarden9999.weebly.com/" email="playoneapps@gmail.com">Steel Garden</author>
+	<name>SangoMatch</name>
+	<description>SangoMatch</description>
+	<author href="https://www.facebook.com/playoneapps" email="playoneapps@gmail.com">playone</author>
 
 	<icon src="icon-128.png" width="128" height="128" gap:role="default" />
 
 	<preference name="permissions" value="none"/>
 
 	<feature name="http://api.phonegap.com/1.0/network"/>
-	<preference name="orientation" value="landscape" />
+	<preference name="orientation" value="portrait" />
 	<preference name="fullscreen" value="true" />
 	<preference name="target-device" value="universal" />
 
